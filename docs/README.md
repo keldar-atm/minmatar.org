@@ -64,6 +64,12 @@ Other entry points: the [root README](../README.md) (local setup, quickstart), [
 | [desktop/ccp-third-party-guidelines.md](desktop/ccp-third-party-guidelines.md) | current | CCP third-party rules every desktop feature must pass |
 | [desktop/overlay-technology.md](desktop/overlay-technology.md) | current | Why the overlay is built the way it is |
 
+## Plans
+
+| Document | Status | About |
+| --- | --- | --- |
+| [ghost-program/concept.md](ghost-program/concept.md) | plan | Ghost program: every member's alpha alt staged in Amo for highsec home defense, readiness checks and the leadership dashboard |
+
 ## Historical
 
 | Document | Status | About |
